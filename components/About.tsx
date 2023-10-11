@@ -7,7 +7,7 @@ type Props = {};
 function About({}: Props) {
   return (
     <div className="flex flex-col relative h-screen text-center md:text-left md:flex-row max-w-7xl px-10 justify-evenly mx-auto items-center">
-      <h3 className="absolute top-24 uppercase tracking-[10px] text-6xl text-red-500 font-semibold ">
+      <h3 className="absolute top-24 uppercase tracking-[10px] text-2xl md:text-6xl text-red-500 font-semibold ">
         💞💙Love💙💞
       </h3>
 
