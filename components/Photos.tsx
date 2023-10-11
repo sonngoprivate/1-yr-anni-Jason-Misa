@@ -18,8 +18,8 @@ const Photos = (props: Props) => {
       whileInView={{ opacity: 1 }}
       className="h-screen flex relative overflow-hidden flex-col text-left md:flex-row max-w-full px-10 justify-evenly mx-auto items-center"
     >
-      <h3 className="absolute mb-8 top-24 uppercase tracking-[20px] text-2xl font-semibold ">
-        Photos
+      <h3 className="absolute mb-8 top-16 uppercase tracking-[10px] text-2xl md:text-6xl text-red-500 font-semibold ">
+        🥰💋😍Photos👄👩‍❤️‍💋‍👨💦
       </h3>
       <div className="w-[400px] h-[700px] flex space-x-5 overflow-x-scroll p-10 snap-x snap-mandatory">
         <PhotoCard1 />

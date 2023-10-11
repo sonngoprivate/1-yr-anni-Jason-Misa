@@ -19,7 +19,7 @@ const PhotoCard3 = (props: Props) => {
         alt="Misa3"
       />
       <div className="px-0 md:px-10">
-        <h4>🚀🎉💖</h4>
+        <h4>💖💞💓</h4>
       </div>
     </article>
   );
