@@ -1,4 +1,5 @@
 import About from "@/components/About";
+import Anni2023 from "@/components/Anni2023";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Photos from "@/components/Photos";
@@ -21,9 +22,9 @@ export default function Home() {
       <section id="photos" className="snap-center">
         <Photos />
       </section>
-      {/* Skill */}
-      {/* Projects */}
-      {/* Contact Me */}
+      <section id="anni2023" className="snap-center">
+        <Anni2023 />
+      </section>
     </div>
   );
 }

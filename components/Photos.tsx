@@ -1,12 +1,12 @@
 "use client";
 import React from "react";
 import { motion } from "framer-motion";
-import PhotoCard1 from "./PhotoCard1";
-import PhotoCard2 from "./PhotoCard2";
-import PhotoCard3 from "./PhotoCard3";
-import PhotoCard4 from "./PhotoCard4";
-import PhotoCard5 from "./PhotoCard5";
-import PhotoCard6 from "./PhotoCard6";
+import PhotoCard1 from "./PhotoCard/PhotoCard1";
+import PhotoCard2 from "./PhotoCard/PhotoCard2";
+import PhotoCard3 from "./PhotoCard/PhotoCard3";
+import PhotoCard4 from "./PhotoCard/PhotoCard4";
+import PhotoCard5 from "./PhotoCard/PhotoCard5";
+import PhotoCard6 from "./PhotoCard/PhotoCard6";
 
 type Props = {};
 
